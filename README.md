@@ -34,7 +34,7 @@ This project is a work in progress: star it, create issues, features or pull req
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/chrishubert/whatsapp-api.git
+git clone https://github.com/umblox/whatsapp-api.git
 cd whatsapp-api
 ```
 
